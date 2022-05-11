@@ -1,4 +1,0 @@
-File "ctx_const_access.php", line 8, characters 3-6:
-`echo` or `print` builtin requires the capability IO, which is not provided by the context. (Typing[4401])
-  File "ctx_const_access.php", line 4, characters 20-30:
-  The local (enclosing) context provides the capability WriteProperty

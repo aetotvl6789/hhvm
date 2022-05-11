@@ -1,2 +1,0 @@
-function add_one(int $x): int
-Adds one to the argument.

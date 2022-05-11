@@ -1,3 +1,0 @@
---lint
---error-format raw
---extra-builtin ../hhi/XHPTest.hhi

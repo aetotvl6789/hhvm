@@ -1,7 +1,0 @@
-(data_only_dirs bin doc facebook man tools)
-
-(alias
- (name all-hack)
- (deps
-  (alias_rec exe)
-  (alias_rec debug)))

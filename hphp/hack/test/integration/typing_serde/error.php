@@ -1,3 +1,0 @@
-<?hh
-
-flkdja lkjfda

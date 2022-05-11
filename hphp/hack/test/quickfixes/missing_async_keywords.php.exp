@@ -1,7 +1,0 @@
-Make function `async`
-
-<?hh
-
-async function foo(): Awaitable<void> {
-  return await gen_bar();
-}

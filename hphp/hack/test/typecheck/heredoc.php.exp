@@ -1,3 +1,0 @@
-File "heredoc.php", line 53, characters 3-7:
-You cannot use this object as a string
-Implicit conversions of Stringish objects to string are deprecated. (Typing[4067])

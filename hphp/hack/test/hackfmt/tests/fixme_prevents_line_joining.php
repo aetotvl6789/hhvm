@@ -1,7 +1,0 @@
-<?hh
-function test() {
-  /* HH_FIXME[4000] */
-  f(
-      $x,
-    );
-}

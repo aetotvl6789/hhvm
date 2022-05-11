@@ -1,9 +1,0 @@
-(library
- (name libancillary)
- (wrapped false)
- (foreign_stubs
-  (language c)
-  (names libancillary-stubs)
-  (flags
-   (:standard -I%{env:CMAKE_SOURCE_DIR=xxx})))
- (libraries libancillary_c))

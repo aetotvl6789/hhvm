@@ -1,2 +1,0 @@
-File "php_lambda.php", line 5, characters 19-23:
-Cannot re-assign `$this` (Parsing[1002])

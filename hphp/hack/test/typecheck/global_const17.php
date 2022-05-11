@@ -1,3 +1,0 @@
-<?hh
-
-const string X = "";

@@ -1,8 +1,0 @@
-File "parent_override_trait2.php", line 16, characters 17-17:
-Some members in class `A` are incompatible with those declared in type `B` (Typing[4374])
-  File "parent_override_trait2.php", line 7, characters 16-16:
-  Non-abstract constants defined in an interface or trait cannot conflict with other inherited constants.
-  File "parent_override_trait2.php", line 4, characters 16-16:
-  `X` inherited from `I1`
-  File "parent_override_trait2.php", line 7, characters 16-16:
-  conflicts with constant `X` inherited from `I2`.

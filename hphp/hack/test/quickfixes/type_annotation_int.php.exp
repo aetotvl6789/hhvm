@@ -1,6 +1,0 @@
-Add integer type annotation
-
-<?hh
-
-const int MY_CONST = 0;
-

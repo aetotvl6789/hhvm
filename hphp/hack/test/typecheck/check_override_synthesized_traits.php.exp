@@ -1,8 +1,0 @@
-File "check_override_synthesized_traits.php", line 24, characters 17-17:
-Some members in class `B` are incompatible with those declared in type `A` (Typing[4341])
-  File "check_override_synthesized_traits.php", line 17, characters 19-21:
-  The method `foo` is not compatible with the overridden method
-  File "check_override_synthesized_traits.php", line 17, characters 23-28:
-  Expected `string`
-  File "check_override_synthesized_traits.php", line 4, characters 23-25:
-  But got `int`

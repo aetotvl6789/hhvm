@@ -1,3 +1,0 @@
-<?hh
-
-enum E: int {}

@@ -1,2 +1,0 @@
-abstract
-An `abstract` method has a signature but no body. Child classes must provide an implementation.

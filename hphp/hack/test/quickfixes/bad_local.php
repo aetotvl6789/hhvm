@@ -1,6 +1,0 @@
-<?hh
-
-function foo(): void {
-  $my_var = 123;
-  $x = $my_var_oops;
-}

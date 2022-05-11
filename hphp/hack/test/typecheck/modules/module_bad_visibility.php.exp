@@ -1,6 +1,0 @@
-File "module_bad_visibility.php", line 9, characters 11-18:
-Methods cannot have multiple visibility modifiers (Parsing[1002])
-File "module_bad_visibility.php", line 10, characters 13-20:
-Methods cannot have multiple visibility modifiers (Parsing[1002])
-File "module_bad_visibility.php", line 11, characters 10-17:
-Methods cannot have multiple visibility modifiers (Parsing[1002])

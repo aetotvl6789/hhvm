@@ -1,8 +1,0 @@
-<?hh
-
-function takes_param(inout int $x): void {}
-
-function call_it(): void {
-  $x = 1;
-  takes_param($x);
-}
