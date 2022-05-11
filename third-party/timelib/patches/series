@@ -1,4 +1,0 @@
-use-system-zoneinfo.patch
-real-scandir.patch
-no-mempcpy.patch
-trunc-undefined-math-h.patch
